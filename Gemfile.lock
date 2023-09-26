@@ -219,7 +219,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  activerecord-oracle_enhanced-adapter (~> 7.0.2)
+  activerecord-oracle_enhanced-adapter
   bootsnap
   capybara
   debug
@@ -227,7 +227,7 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.8)
-  ruby-oci8 (~> 2.2, >= 2.2.12)
+  ruby-oci8
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
